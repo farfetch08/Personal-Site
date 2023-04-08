@@ -4,10 +4,10 @@ body{
     text-align: center;
   }
   
-  /*
-  font-family: 'Nunito', sans-serif;
-  font-family: 'Pacifico', cursive;
-  */
+  header {
+      width: 100%;
+  }
+
   p{
     font-family: 'Nunito', sans-serif;
   }
